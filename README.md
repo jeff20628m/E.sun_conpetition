@@ -18,3 +18,7 @@
 ## Folders
 
 * /**data_set** store all data we need here.
+
+## Reference
+
+[E.sun : T-brain_website](https://tbrain.trendmicro.com.tw/Competitions/Details/6)
